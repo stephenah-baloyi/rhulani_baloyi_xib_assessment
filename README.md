@@ -1,2 +1,2 @@
-# rhulani_baloyi_xib_assessment
+# xib_assessment
 XIB Assessment
